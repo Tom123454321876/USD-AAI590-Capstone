@@ -1,0 +1,11 @@
+# Directory ownership; GitHub requires write access for owners.
+/data_pipeline/ @dsims21
+/rag/ @dsims21
+/src/data/ @dsims21
+/machine_learning/ @DMulabegovic
+/agents/ @Tom123454321876
+/integration/ @Tom123454321876
+/evaluation/ @Tom123454321876
+/src/agents/ @Tom123454321876
+/config/ @Tom123454321876 @DMulabegovic @dsims21
+/docs/ @Tom123454321876 @DMulabegovic @dsims21
