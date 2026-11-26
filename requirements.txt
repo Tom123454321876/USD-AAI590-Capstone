@@ -1,0 +1,15 @@
+# Original explicit constraints, plus imports used by the notebook.
+# These are dependency ranges, not a verified lockfile. Use a compatible Databricks runtime.
+databricks-sdk>=0.49,<1
+openai>=1.60,<3
+requests>=2.32,<3
+jsonschema>=4.23,<5
+sentence-transformers
+numpy
+pandas
+scikit-learn
+joblib
+tensorflow
+mlflow
+matplotlib
+seaborn
