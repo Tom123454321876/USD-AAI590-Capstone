@@ -1,4 +1,4 @@
-# Eye Style Optometry — AI Operations & Workflow Intelligence
+# Eye Style Optometry: AI Operations & Workflow Intelligence
 
 University of San Diego | AAI590 Capstone | Team 2
 
